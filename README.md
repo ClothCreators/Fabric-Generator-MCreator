@@ -1,3 +1,5 @@
+I decided to stop MCreator and leave the community. Please read this [topic](https://mcreator.net/forum/107531/final-chapter-my-journey).
+
 # MCreator Fabric Generator
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F7EKDC0)
